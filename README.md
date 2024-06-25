@@ -70,4 +70,6 @@ const sandeep = {
   </a>
 </span>
 
-<span>⭐️ From <a href="https://github.com/MrUnknownji">Sandeep Kumar</a></span>
+
+##
+⭐️ From <a href="https://github.com/MrUnknownji">Sandeep Kumar</a>
