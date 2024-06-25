@@ -61,9 +61,10 @@ const sandeep = {
 </p>
 
 ---
-<div width="100%">
-  <span align="left" width="50%">⭐️ From <a href="https://github.com/MrUnknownji">Sandeep Kumar</a></span>
-  <span align="right" width="50%">
+---
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <span>⭐️ From <a href="https://github.com/MrUnknownji">Sandeep Kumar</a></span>
+  <span style="display: flex; gap: 10px;">
     <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
       <img src="https://komarev.com/ghpvc/?username=MrUnknownji">
     </a>
