@@ -69,6 +69,6 @@ const sandeep = {
     <a href="https://github.com/MrUnknownji?tab=followers"><img src="https://img.shields.io/github/followers/MrUnknownji?label=Followers&style=social" alt="GitHub Badge"></a>
   </div>
   <div align="left">
-  ⭐️ From [Sandeep Kumar](https://github.com/MrUnknownji)
+  ⭐️ From <a href="https://github.com/MrUnknownji">Sandeep Kumar</a>
   </div>
 </div>
