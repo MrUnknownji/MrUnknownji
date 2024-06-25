@@ -62,13 +62,13 @@ const sandeep = {
 
 ---
 <div>
-  <div align="right">
+  <div align="right" style="display:inline-block">
     <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
         <img src="https://komarev.com/ghpvc/?username=MrUnknownji">
     </a>
     <a href="https://github.com/MrUnknownji?tab=followers"><img src="https://img.shields.io/github/followers/MrUnknownji?label=Followers&style=social" alt="GitHub Badge"></a>
   </div>
-  <div align="left">
+  <div align="left" style="display:inline-block">
   ⭐️ From <a href="https://github.com/MrUnknownji">Sandeep Kumar</a>
   </div>
 </div>
