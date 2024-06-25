@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
-
 ## 🚀 Quick Facts
 
 - 🔭 Currently mastering **Angular**
@@ -67,4 +65,4 @@ const sandeep = {
 
 ---
 
-⭐️ From [Sandeep Kumar](https://github.com/MrUnknownji) | Last Edited on: [Current Date]
+⭐️ From [Sandeep Kumar](https://github.com/MrUnknownji)
