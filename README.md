@@ -60,7 +60,7 @@ const sandeep = {
 <a href="https://twitter.com/MrUnknownji" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-## ❤ Views & followers
+## ❤ Views & Followers
 <span>
   <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=MrUnknownji">
