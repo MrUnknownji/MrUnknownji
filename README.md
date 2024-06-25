@@ -60,7 +60,13 @@ const sandeep = {
 <a href="https://twitter.com/MrUnknownji" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
----
----
-| ⭐️ From [Sandeep Kumar](https://github.com/MrUnknownji) | ![](https://komarev.com/ghpvc/?username=MrUnknownji) ![](https://img.shields.io/github/followers/MrUnknownji?label=Followers&style=social) |
-| --- | ---: |
+------
+<span align="right">⭐️ From <a href="https://github.com/MrUnknownji">Sandeep Kumar</a></span>
+<span align="left">
+  <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=MrUnknownji">
+  </a>
+  <a href="https://github.com/MrUnknownji?tab=followers">
+    <img src="https://img.shields.io/github/followers/MrUnknownji?label=Followers&style=social" alt="GitHub Badge">
+  </a>
+</span>
