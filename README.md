@@ -1,18 +1,3 @@
-
-<!--
-**MrUnknownji/MrUnknownji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">👨‍💻 Sandeep Kumar</h1>
 
 <p align="center">
@@ -49,28 +34,27 @@ Here are some ideas to get you started:
 ## 📊 My Github Stats
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sandeep Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/MrUnknownji/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sandeep Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MrUnknownji&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MrUnknownji&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUnknownji&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## 🌐 Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/yourusername/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/yourusername"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/yourusername/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/sandeep-kumar-5479ba227/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/MrUnknownji"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=yourusername">
+    <img src="https://komarev.com/ghpvc/?username=MrUnknownji">
 </a>
-<a href="https://github.com/yourusername?tab=followers"><img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/MrUnknownji?tab=followers"><img src="https://img.shields.io/github/followers/MrUnknownji?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ---
 
-⭐️ From [Sandeep Kumar](https://github.com/yourusername)
+⭐️ From [Sandeep Kumar](https://github.com/MrUnknownji)
