@@ -15,7 +15,7 @@
 - 🔭 Currently mastering **Angular**
 - 💡 Always excited to learn new technologies
 - ☕ Fueled by coffee and good music
-- 🌟 Turning caffeine into code since [Your Year]
+- 🌟 Turning caffeine into code since 2023
 
 ## 💻 Tech Stack
 
