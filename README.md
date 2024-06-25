@@ -61,7 +61,7 @@ const sandeep = {
 </p>
 
 ---
-<div align="space-between" width="100%">
+<div style="display:flex;justify-content:space-between;" width="100%">
   <span align="left">⭐️ From <a href="https://github.com/MrUnknownji">Sandeep Kumar</a></span>
   <span align="right">
     <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
