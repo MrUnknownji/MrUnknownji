@@ -61,14 +61,18 @@ const sandeep = {
 </p>
 
 ---
-<div>
-  <span align="left">
-  ⭐️ From <a href="https://github.com/MrUnknownji">Sandeep Kumar</a>
-  </span>
-  <span align="right">
-    <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<table>
+  <tr>
+    <td align="left">
+      ⭐️ From <a href="https://github.com/MrUnknownji">Sandeep Kumar</a>
+    </td>
+    <td align="right">
+      <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
         <img src="https://komarev.com/ghpvc/?username=MrUnknownji">
-    </a>
-    <a href="https://github.com/MrUnknownji?tab=followers"><img src="https://img.shields.io/github/followers/MrUnknownji?label=Followers&style=social" alt="GitHub Badge"></a>
-  </span>
-</div>
+      </a>
+      <a href="https://github.com/MrUnknownji?tab=followers">
+        <img src="https://img.shields.io/github/followers/MrUnknownji?label=Followers&style=social" alt="GitHub Badge">
+      </a>
+    </td>
+  </tr>
+</table>
