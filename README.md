@@ -49,8 +49,8 @@ const sandeep = {
 </p>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MrUnknownji&show_icons=true&theme=black-ice&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUnknownji&layout=compact&langs_count=7&theme=black-ice"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MrUnknownji&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUnknownji&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## 🌐 Let's Connect!
@@ -62,16 +62,13 @@ const sandeep = {
 
 ---
 <div>
-
   <div align="right">
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=MrUnknownji">
-</a>
-<a href="https://github.com/MrUnknownji?tab=followers"><img src="https://img.shields.io/github/followers/MrUnknownji?label=Followers&style=social" alt="GitHub Badge"></a>
+    <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=MrUnknownji">
+    </a>
+    <a href="https://github.com/MrUnknownji?tab=followers"><img src="https://img.shields.io/github/followers/MrUnknownji?label=Followers&style=social" alt="GitHub Badge"></a>
   </div>
-<div align="left">
-  
-⭐️ From [Sandeep Kumar](https://github.com/MrUnknownji)
-</div>
-
+  <div align="left">
+  ⭐️ From [Sandeep Kumar](https://github.com/MrUnknownji)
+  </div>
 </div>
