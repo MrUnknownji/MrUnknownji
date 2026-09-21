@@ -11,6 +11,9 @@
 <a href="https://github.com/MrUnknownji">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+<a href="https://sandeep-portfolio-nu.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
 
 <br/><br/>
 
@@ -135,6 +138,9 @@ I like learning by building, breaking things, understanding why they broke, and 
 
 <a href="https://www.linkedin.com/in/sandeep-kumar-sk1707/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+<a href="https://sandeep-portfolio-nu.vercel.app/">
+  <img src="https://img.shields.io/badge/View_My_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="View my portfolio" />
 </a>
 
 <br/><br/>
