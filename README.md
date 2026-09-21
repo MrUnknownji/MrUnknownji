@@ -89,10 +89,37 @@ A React-based shopping experience focused on reusable UI, responsive styling and
 
 ## GitHub snapshot
 
+<table>
+<tr>
+<td width="33%" align="center">
+
+**⚙️ Product Engineering**
+
+<sub>Full-stack apps, practical architecture, maintainable systems</sub>
+
+</td>
+<td width="33%" align="center">
+
+**⚡ Real-time & Interactive**
+
+<sub>WebSockets, live state, responsive product experiences</sub>
+
+</td>
+<td width="33%" align="center">
+
+**🎨 Creative Tools**
+
+<sub>Browser utilities, creator workflows and polished interfaces</sub>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MrUnknownji&show_icons=true&hide_border=true&bg_color=00000000&title_color=60A5FA&icon_color=A78BFA&text_color=8B949E&ring_color=60A5FA" alt="Sandeep's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUnknownji&layout=compact&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=8B949E&langs_count=8" alt="Most used languages" />
+<a href="https://github.com/MrUnknownji?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
+</a>
 
 </div>
 
