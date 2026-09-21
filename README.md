@@ -40,19 +40,6 @@ const sandeep = {
     <a href="https://angular.io" target="_blank"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> </a> 
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-    <a href="https://github.com/MrUnknownji">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sandeep Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MrUnknownji&theme=black-ice&hide_border=true&hide_total_contributions=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MrUnknownji&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUnknownji&layout=compact&langs_count=7&theme=merko"/>
-</div>
-
 ## 🌐 Let's Connect!
 
 <p align="left">
